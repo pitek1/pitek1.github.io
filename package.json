@@ -1,0 +1,10 @@
+{
+  "name": "pgrynfelder.me",
+  "version": "0.0.1",
+  "description": "Piotr Grynfelder",
+  "main": "index.js",
+  "repository": "https://github.com/pitek1/pitek1.github.io.git",
+  "author": "Piotr Grynfelder <dev.pitek@gmail.com>",
+  "license": "All rights reserved.",
+  "private": true
+}
